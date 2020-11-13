@@ -4,6 +4,7 @@ def selectMin(list):
         if var>i:
             var=i
     return var
+    
 
 def triSelect (list):
     result=[]
@@ -33,3 +34,4 @@ def fusion(list):
     """
     A compléter
     """
+    return list
