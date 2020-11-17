@@ -30,8 +30,8 @@ def triFusion(list):
             """
         else return list    
     
-def fusion(list):
+def fusion(list1, list2):
     """
     A compléter
     """
-    return list
+    return listResult
